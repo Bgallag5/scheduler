@@ -35,12 +35,18 @@ THEN the saved events persist
 ```
 
 ## APPLICATION FUNCTIONALITY:
+-This daily calendar that displays work hours starting at 9AM to 5PM.
+-Current day and date can be found on the top of the daily calendar.
+-Each time block is color coded to indicate whether it occurs in the past(gray), present(red), or future(green).
+-Each time block has an input field and save button where users can store their schedule.
+-Once it saved, it will store in the users local storage.
+-This calendar is desktop and mobile compatible.
 
 
 
 
 ## MOCK-UP:
-
+https://drive.google.com/file/d/1ydSqmYyKKwl4jEJ-1frBP9XuszckBP5d/view
 
 ## Contributor:
 ```
