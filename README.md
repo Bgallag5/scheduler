@@ -5,7 +5,7 @@ Challenge 5 - Third Party APIs: Word Day Scheduler
 ## URL: https://shaner3423.github.io/scheduler/
 ## GitHub Repo: https://github.com/shaner3423/scheduler
 
-##DESCRIPTION:
+## DESCRIPTION:
 ```
 Simple daily planner that allows you to keep track of task daily.
 ```
